@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+azure-cognitiveservices-speech
+azure-cognitiveservices-vision-computervision
+msrest
+Pillow
+python-dotenv
